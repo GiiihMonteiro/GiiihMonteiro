@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi! I'm Giovanna Monteiro, a front-end development student based in São Paulo, Brasil. I'm currently learning and practicing HTML, CSS, and JavaScript, building modern, responsive, and functional interfaces.<br>Beyond front-end, I also have a strong interest in fullstack development, aiming to expand my knowledge in back-end and work across the entire web development process.<br>My goal is to grow in the tech field, creating projects that combine creativity, usability, and funcionality.<br><br>This is the space where I share my learning journey, studies, and the projects I develop as I work towards becoming a fullstack developer.</p>
+<p align="left">Hi! I'm Giovanna Monteiro, a front-end development student based in São Paulo, Brasil. I'm currently learning and practicing HTML, CSS, and JavaScript, building modern, responsive, and functional interfaces.<br>Beyond front-end, I also have a strong interest in fullstack development, aiming to expand my knowledge in back-end and work across the entire web development process. My goal is to grow in the tech field, creating projects that combine creativity, usability, and funcionality.<br>This is the space where I share my learning journey, studies, and the projects I develop as I work towards becoming a fullstack developer.</p>
 
 ###
 
