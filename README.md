@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/__skyy.x?igsh=MXJndDlvM2J3M2lvdg==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
+  <a href="https://discordapp.com/users/_skyyxs" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="discord logo"  />
   </a>
   <a href="https://mail.google.com/mail/mu/mp/634/#tl/priority/%5Esmartlabel_social" target="_blank">
