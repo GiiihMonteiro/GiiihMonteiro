@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">Hi! I'm Giovanna Monteiro, a front-end development student based in São Paulo, Brasil. I'm currently learning and practicing HTML, CSS, and JavaScript, building modern, responsive, and functional interfaces.<br>Beyond front-end, I also have a strong interest in fullstack development, aiming to expand my knowledge in back-end and work across the entire web development process. My goal is to grow in the tech field, creating projects that combine creativity, usability, and funcionality.<br>This is the space where I share my learning journey, studies, and the projects I develop as I work towards becoming a fullstack developer.</p>
+<p align="left">Hello, I’m Giovana Monteiro, a Cybersecurity student at FIAP with an interest in information security, networks, systems, and technologies focused on protecting digital environments. I am currently developing my expertise in the<br>field through study and hands-on projects, exploring various security concepts and tools.
+  <br>I am interested in understanding how technologies work, identifying potential vulnerabilities, and developing solutions that contribute to more secure environments. I also aim to constantly expand my technical knowledge and keep up with the diverse areas that make up the world of cybersecurity.
+<br>This is the space where I share my studies, projects, and practical experiences, documenting my progress and everything I have been building throughout my education in technology.</p>
 
 ###
 
