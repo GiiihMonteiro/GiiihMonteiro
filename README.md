@@ -6,8 +6,7 @@
 
 ###
 
-<p align="left">Hello, I’m Giovana Monteiro, a Cybersecurity student at FIAP with an interest in information security, networks, systems, and technologies focused on protecting digital environments. I am currently developing my expertise in the<br>field through study and hands-on projects, exploring various security concepts and tools.
-  <br>I am interested in understanding how technologies work, identifying potential vulnerabilities, and developing solutions that contribute to more secure environments. I also aim to constantly expand my technical knowledge and keep up with the diverse areas that make up the world of cybersecurity.
+<p align="left">Hello, I’m Giovana Monteiro, a Cybersecurity student at FIAP with an interest in information security, networks, systems, and technologies focused on protecting digital environments. I am currently developing my expertise in the<br>field through study and hands-on projects, exploring various security concepts and tools. I am interested in understanding how technologies work, identifying potential vulnerabilities, and developing solutions that contribute to more secure environments. I also aim to constantly expand my technical knowledge and keep up with the diverse areas that make up the world of cybersecurity.
 <br>This is the space where I share my studies, projects, and practical experiences, documenting my progress and everything I have been building throughout my education in technology.</p>
 
 ###
