@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Front-end Developer (in progress) | Web Development Student</h4>
+<h4 align="left">Cybersecurity Studant | Aspiring Cybersecurity Professional | Developer</h4>
 
 ###
 
