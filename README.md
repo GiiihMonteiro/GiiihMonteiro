@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Cybersecurity Studant | Aspiring Cybersecurity Professional | Developer</h4>
+<h4 align="left">Cybersecurity Studant | Developer</h4>
 
 ###
 
